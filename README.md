@@ -27,5 +27,14 @@ This project predicts whether a patient has diabetes using supervised learning t
 ## 📂 Dataset
 Pima Indians Diabetes Dataset
 
+## 📊 Model Performance
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### Accuracy & Classification Report
+![Model Performance](model_performance.png)
+
+
 ## 👤 Author
 Shivam Kumar
